@@ -1,4 +1,7 @@
-## Run 'index.html' on a local server so that it will work! :)
+# XML-JS
+
+## Instruction
+Run 'index.html' on a local server so that it will work! :)
 
 ### Group 7:
 - Armel Mendoza
